@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+
+# Environments
+.venv/
+.env/
+
+# Data, checkpoints, results
+/data/
+/checkpoints/
+/results/
+
+# Logs
+logs/
+wandb/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
