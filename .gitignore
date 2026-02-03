@@ -9,11 +9,6 @@ __pycache__/
 .venv/
 .env/
 
-# Data, checkpoints, results
-/data/
-/checkpoints/
-/results/
-
 # Logs
 logs/
 wandb/
